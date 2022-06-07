@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e1089bc.chunk.css",
-    "main.js": "/static/js/main.1a9f26cb.chunk.js",
-    "main.js.map": "/static/js/main.1a9f26cb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b479278.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b479278.js.map",
-    "static/js/2.91d435ff.chunk.js": "/static/js/2.91d435ff.chunk.js",
-    "static/js/2.91d435ff.chunk.js.map": "/static/js/2.91d435ff.chunk.js.map",
-    "static/js/3.7c943802.chunk.js": "/static/js/3.7c943802.chunk.js",
-    "static/js/3.7c943802.chunk.js.map": "/static/js/3.7c943802.chunk.js.map",
+    "main.css": "candymachine-v2/static/css/main.6e1089bc.chunk.css",
+    "main.js": "candymachine-v2/static/js/main.1a9f26cb.chunk.js",
+    "main.js.map": "candymachine-v2/static/js/main.1a9f26cb.chunk.js.map",
+    "runtime-main.js": "candymachine-v2/static/js/runtime-main.5b479278.js",
+    "runtime-main.js.map": "candymachine-v2/static/js/runtime-main.5b479278.js.map",
+    "static/js/2.91d435ff.chunk.js": "candymachine-v2/static/js/2.91d435ff.chunk.js",
+    "static/js/2.91d435ff.chunk.js.map": "candymachine-v2/static/js/2.91d435ff.chunk.js.map",
+    "static/js/3.7c943802.chunk.js": "candymachine-v2/static/js/3.7c943802.chunk.js",
+    "static/js/3.7c943802.chunk.js.map": "candymachine-v2/static/js/3.7c943802.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6e1089bc.chunk.css.map": "/static/css/main.6e1089bc.chunk.css.map",
-    "static/js/2.91d435ff.chunk.js.LICENSE.txt": "/static/js/2.91d435ff.chunk.js.LICENSE.txt"
+    "static/css/main.6e1089bc.chunk.css.map": "candymachine-v2/static/css/main.6e1089bc.chunk.css.map",
+    "static/js/2.91d435ff.chunk.js.LICENSE.txt": "candymachine-v2/static/js/2.91d435ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b479278.js",
-    "static/js/2.91d435ff.chunk.js",
-    "static/css/main.6e1089bc.chunk.css",
-    "static/js/main.1a9f26cb.chunk.js"
+    "candymachine-v2/static/js/runtime-main.5b479278.js",
+    "candymachine-v2/static/js/2.91d435ff.chunk.js",
+    "candymachine-v2/static/css/main.6e1089bc.chunk.css",
+    "candymachine-v2/static/js/main.1a9f26cb.chunk.js"
   ]
 }
